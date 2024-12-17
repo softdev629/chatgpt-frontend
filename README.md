@@ -84,4 +84,4 @@ To do:
 
 ## Contact
 
-Created by [@violetstar701](https://) - feel free to contact me!
+Created by [@Bohdan](https://softdev629.github.io) - feel free to contact me!
